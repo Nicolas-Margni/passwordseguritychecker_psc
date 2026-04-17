@@ -4,8 +4,9 @@ REST API built with **FastAPI + Python**, designed to analyze passwords from a r
 
 This project goes beyond simply telling whether a password is “secure” or not. Its goal is to simulate how a password could be attacked in real-world scenarios, combining brute-force techniques, real-world dictionaries, and targeted attacks.
 
-> The idea is simple: you can’t defend what you don’t understand.
+![Image Alt](https://github.com/Nicolas-Margni/passwordseguritychecker_psc/blob/8c1181c59cb2ce842939a9a70f43ef0c99394c8d/PSC.jpeg)
 
+> The idea is simple: you can’t defend what you don’t understand.
 ---
 
 ## 📋 Requirements
