@@ -10,7 +10,7 @@ This project goes beyond simply telling whether a password is “secure” or no
 
 ## 📋 Requirements
 
-* Python 3.11+
+* Python 3.11 (Mandatory)
 * pip
 
 ---
